@@ -9,6 +9,7 @@ int main()
 	int j;
 	int len;
 	scanf("%d",&n);
+        for（len=1；len<7;len++）
 	for(i=0;i<n;i++)
 	{
 		gets(num);
@@ -18,7 +19,7 @@ int main()
 			switch(num[j])
 			{
 				case 0:printf("*****\n***")
-			}
+			}//这个程序没写完
 		}
 	}
 }
