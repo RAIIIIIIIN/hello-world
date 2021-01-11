@@ -28,6 +28,6 @@ int main(){
 	}
 	printf("%s\n",str);
 	return 0;
-	
+	//用于排列顺序
 	 
 }
