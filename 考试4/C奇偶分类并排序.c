@@ -56,6 +56,7 @@ int main(){
     }
 	return 0;
 }
+//用于排序的函数
 int comp(const void*a,const void*b)
 {
 return *(int*)a-*(int*)b;
